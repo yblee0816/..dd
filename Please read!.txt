@@ -1,0 +1,35 @@
+디스코드:이예빈#1924
+텔레그램:yblee0816
+깃허브:https://github.com/yblee0816
+메일:yblee0816@gmail.com and yblee0816@naver.com
+
+Hello, this is a DDoS program created by crawling on a web stressor site.
+Please be advised that users are responsible for the punishment and responsibility for abuse of this program.
+I made it only for fun, and I made it because my friend would like to make it
+This program is made using a site that does DDoS on the web like the stressthem.to site.
+It was created using a total of 240 lines of code.
+Program icons are my favorite wrappers..
+It is recognized as a virus because it is made in Python.
+There is really no virus, so please exclude it from the vaccine and use it ^_^
+
+And when you use it, there are times when English comes out, so don’t be surprised
+Please note that execution continues after a while.
+And never touch the program called chromdriver in the same file.
+You may get an error.
+Please look carefully at the explanation in the middle of the program. There may be an unforeseen situation ㅠ_ㅠ
+
+My GitHub:https://github.com/yblee0816
+We are planning to upload other programs, so please watch it a lot.
+If you are interested in programming or hacking, please email yblee0816@gmail.com or
+Please contact us via Telegram.
+
+When you sign up for a member, the captcha code appears, but the image is just a combination of numbers + English.
+It will appear, but you can use it along with it.
+
+If you have any questions or errors in the program, please contact the above contact information.
+This program is not a DOS (denial of service attack)
+Distributed Denial of Service Attack (DDOS).
+
+Again, this program is made for fun only
+Any abuse is at your own risk.
+Thank you.
